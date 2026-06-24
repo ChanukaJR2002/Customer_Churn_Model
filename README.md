@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Telco Customer Churn Predictor
 
 A machine learning web app that predicts whether a telecom customer is likely to **churn** (cancel their service), based on their account details, services subscribed, and billing information. Built with **XGBoost** and served through an interactive **Streamlit** UI.
@@ -123,3 +124,7 @@ Trained on the IBM/Kaggle Telco Customer Churn dataset. Final model: tuned XGBoo
 ## Name - Chanuka Rajapaksa
 ## GitHub - [@ChanukaJR2002](https://github.com/)
 ## Linkedin - https://www.linkedin.com/feed/
+=======
+# Customer_Churn_Model
+Predict telecom customer churn risk from account and service details using XGBoost.
+>>>>>>> 2ed076863bee6e6b55361c029c9cacb7d9edb9cf
