@@ -122,7 +122,7 @@ Trained on the IBM/Kaggle Telco Customer Churn dataset. Final model: tuned XGBoo
 ## Author Details
 ---------------
 ## Name - Chanuka Rajapaksa
-## GitHub - [@ChanukaJR2002](https://github.com/)
+## GitHub - https://github.com/ChanukaJR2002
 ## Linkedin - https://www.linkedin.com/in/chanuka-rajapaksa-14b9533a1/
 =======
 # Customer_Churn_Model
