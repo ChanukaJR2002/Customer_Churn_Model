@@ -123,7 +123,7 @@ Trained on the IBM/Kaggle Telco Customer Churn dataset. Final model: tuned XGBoo
 ---------------
 ## Name - Chanuka Rajapaksa
 ## GitHub - [@ChanukaJR2002](https://github.com/)
-## Linkedin - https://www.linkedin.com/feed/
+## Linkedin - https://www.linkedin.com/in/chanuka-rajapaksa-14b9533a1/
 =======
 # Customer_Churn_Model
 Predict telecom customer churn risk from account and service details using XGBoost.
