@@ -79,7 +79,7 @@ def sync_internet_fields():
 st.title("📡 Telco Customer Churn Predictor")
 st.write(
     "Fill your details below and click **Predict** to estimate "
-    "the likelihood that this you will churn."
+    "the likelihood that this customer will churn."
 )
 
 st.divider()
@@ -290,7 +290,7 @@ def build_input_row():
 
 if predict_clicked:
     input_df = build_input_row()
-    input_scaled = scaler.transform(input_df)
+    input_scaled = scaler.transform(input_df.values)
     pred = int(model.predict(input_scaled)[0])
     proba = float(model.predict_proba(input_scaled)[0][1])
     st.session_state["prediction_result"] = (pred, proba)
